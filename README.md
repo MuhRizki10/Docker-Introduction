@@ -1,2 +1,7 @@
 # Docker-Introduction
-Menggunakan Docker-Composse.yml untuk membuat File .env dan menggunakan etl.py dengan file init untuk input dan output
+Menggunakan notepad untuk membuat:
+1. docker-composse.yml
+2. file .env
+3. file init untuk input dan output
+Menggunakan wsl di direkroti projek
+Kemudian mengaktifkan etl.py 
